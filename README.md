@@ -10,7 +10,7 @@
   
 🟣At the end, to test the model on the mentioned dataset, the following images can be obtained as a sample.
   
-</p> 
+</p>
 
 <p align="center">
 <img src="https://github.com/shhatami/-UNet-in-Cardiac-Catheterization-X-Ray-Images-/assets/53007257/0afa2caa-ad18-42fb-b53b-000f7e159e1f" alt="Cardiac Catheterization">
